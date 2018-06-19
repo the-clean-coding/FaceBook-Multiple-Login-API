@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\praveen raj\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-cbf10233a706c9d2ee43d5724f11a43be440d5a6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\pre-dexed\debug\classes-f5392ed4d1b22cf050343418f60062c72b8ba089.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\pre-dexed\debug\classes-885d827bc9170afae1cbd457599791c3b51e5954.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\pre-dexed\debug\classes-c8d4c3e0073ce35696b844dc6f9c7e6250dbc08a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-de8096e967909ccd385bd607b6dac5cca671d8de.jar" />
+    </item>
+    <item
+        jar="C:\Users\praveen raj\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\AndroidStudioProjects\FaceBookLogin\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-fb084956850c6acbc49994ea828471a6a16166a8.jar" />
+    </item>
+
+</items>
